@@ -28,6 +28,10 @@
   font-family: 'open sans light',arial,sans-serif;;
 }
 
+button {
+  outline: none;
+}
+
 button.clear {
   width: 184px;
   height: 48px;
